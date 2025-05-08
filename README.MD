@@ -39,7 +39,7 @@ pip install -r requirements.txt
 
 Launch the notebook:
 
-jupyter notebook main.ipynb
+jupyter notebook CustomerSegmentation.ipynb
 
 Key Techniques Used
 
