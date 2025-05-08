@@ -77,7 +77,7 @@ Author
 
 Francis Carl Sumile  
 Machine Learning Practitioner | Data Scientist
-GitHub: github.com/francisuml
+GitHub: github.com/francisu.ml
 
 License
 
